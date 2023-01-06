@@ -78,8 +78,8 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #gallery{padding:35px 0;}
 #gallery h1{margin:0 0 35px 0; padding:0; font-size:50px; color:#666666; background-color:#F7F7F7;}
 #gallery ul{margin:0; padding:0; list-style:none;}
-#gallery li{display:block; float:left; width:310px; height:170px; margin:0 15px 15px 0;}
-#gallery li a{display:block; float:left; width:300px; height:160px; margin:0; padding:4px; border:1px dotted #333333;}
+#gallery li{display:block; float:left; width:310px; height:170px; margin:0 15px 15px 0; padding-bottom: 30px;}
+#gallery li a{display:block; float:left; width:300px; height:200px; margin:0; padding:4px; border:1px dotted #333333;}
 #gallery li a:hover{color:#FFFFFF; background-color:#666666; border:1px dotted #000000;}
 #gallery li.last{margin-right:0;}
 
@@ -145,3 +145,12 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #copyright{padding:15px 0;}
 #copyright p{margin: 0;; padding:0;}
 #copyright a{color:#FF6600; background-color:#000000;}
+
+
+
+#minecraft {
+    width: 300px;
+    height: 30px;
+    font-size: 25px;
+    text-align: center;
+}
