@@ -154,3 +154,9 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
     font-size: 25px;
     text-align: center;
 }
+#games {
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
